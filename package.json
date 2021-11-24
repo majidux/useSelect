@@ -1,6 +1,6 @@
 {
   "name": "use-select-react",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "select items in a list",
   "main": "lib/index.js",
   "types": "lib",
